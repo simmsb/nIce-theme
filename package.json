@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/nitros12/nice-theme",
+  "repository": "https://github.com/nitros12/nIce-theme",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
