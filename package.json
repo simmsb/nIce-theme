@@ -1,7 +1,7 @@
 {
   "name": "nIce-theme",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Syntax theme inspired by the Kasugano terminal colours",
   "keywords": [
     "syntax",
