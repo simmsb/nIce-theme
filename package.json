@@ -1,14 +1,14 @@
 {
   "name": "nIce-theme",
   "theme": "syntax",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Syntax theme inspired by the Kasugano terminal colours",
   "keywords": [
     "syntax",
     "theme",
-	"blue",
-	"ice",
-	"dark"
+    "blue",
+    "ice",
+    "dark"
   ],
   "repository": "https://github.com/nitros12/nIce-theme",
   "license": "MIT",
