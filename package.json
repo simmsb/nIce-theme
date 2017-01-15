@@ -5,7 +5,10 @@
   "description": "Syntax theme inspired by the Kasugano terminal colours",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+	"blue",
+	"ice",
+	"dark"
   ],
   "repository": "https://github.com/nitros12/nIce-theme",
   "license": "MIT",
