@@ -158,6 +158,14 @@ atom-text-editor .search-results .syntax--marker.current-result .region {
 }
 
 .syntax--punctuation {
+
+  &.syntax--parenthesis {
+    &.syntax--begin,
+    &.syntax--end {
+      color: @light-gray;
+    }
+  }
+
   &.syntax--definition {
 
     &.syntax--arguments {
