@@ -2,4 +2,4 @@
 
 A single-shade syntax theme inspired by [Kasugano](http://dotshare.it/dots/659)
 
-![Example](https://cloud.githubusercontent.com/assets/5330444/21944297/4997b2f0-d9cd-11e6-80ca-6adb964fb654.png)
+![kasugano_theme](https://cloud.githubusercontent.com/assets/5330444/26169796/d1abf190-3b36-11e7-873d-1c51f670ac5f.png)

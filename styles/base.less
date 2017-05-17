@@ -158,6 +158,11 @@ atom-text-editor .search-results .syntax--marker.current-result .region {
 }
 
 .syntax--punctuation {
+  &.syntax--separator {
+    &.syntax--colon {
+      color: @light-gray;
+    }
+  }
 
   &.syntax--parenthesis {
     &.syntax--begin,
@@ -168,6 +173,7 @@ atom-text-editor .search-results .syntax--marker.current-result .region {
 
   &.syntax--definition {
 
+    &.syntax--list,
     &.syntax--arguments {
       &.syntax--begin,
       &.syntax--end {
@@ -209,6 +215,11 @@ atom-text-editor .search-results .syntax--marker.current-result .region {
 }
 
 .syntax--support {
+
+  &.syntax--type {
+    color: @purple;
+  }
+
   &.syntax--class {
     color: @light-orange;
   }
